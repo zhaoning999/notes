@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T09:17:02.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="kcqW-KPjVkLO5eDsCpTl" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T09:24:23.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="vZWeKlYd9BN7vCz6wffB" version="13.8.1" type="github">
   <diagram id="N_y_Yq19GQc27qYxF0yg" name="Page-1">
     <mxGraphModel dx="1786" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CxtwxUlN5PKy3tY3AME2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;border-style:dotted;" vertex="1" parent="1">
           <mxGeometry x="20" y="240" width="170" height="390" as="geometry" />
         </mxCell>
         <mxCell id="CxtwxUlN5PKy3tY3AME2-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="370" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CxtwxUlN5PKy3tY3AME2-2" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="381" width="140" height="54" as="geometry" />
+          <mxGeometry x="40" y="417" width="140" height="54" as="geometry" />
         </mxCell>
         <mxCell id="CxtwxUlN5PKy3tY3AME2-3" value="&lt;font color=&quot;#000000&quot;&gt;EMS on Cloud&lt;/font&gt;&lt;br&gt;Vision API" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_vision_api;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="CxtwxUlN5PKy3tY3AME2-2">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
@@ -51,6 +51,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="400" as="targetPoint" />
             <mxPoint x="230" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-20" value="&#xa;&#xa;update model" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-21" value="&lt;font color=&quot;#000000&quot;&gt;EMS&lt;br&gt;&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=developer_portal;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="CxtwxUlN5PKy3tY3AME2-20">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
