@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T08:47:05.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.1" etag="CZgYMTLrqkfkPVtmhlHo" type="github"><diagram id="N_y_Yq19GQc27qYxF0yg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-21T09:17:02.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="kcqW-KPjVkLO5eDsCpTl" version="13.8.1" type="github">
+  <diagram id="N_y_Yq19GQc27qYxF0yg" name="Page-1">
+    <mxGraphModel dx="1786" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="170" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-2" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="381" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-3" value="&lt;font color=&quot;#000000&quot;&gt;EMS on Cloud&lt;/font&gt;&lt;br&gt;Vision API" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_vision_api;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="CxtwxUlN5PKy3tY3AME2-2">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-7" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="367" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-8" value="&lt;font color=&quot;#000000&quot;&gt;EMS&lt;br&gt;&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=developer_portal;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="CxtwxUlN5PKy3tY3AME2-7">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/city-elements-18/64/factory-pollution-industry-contamination-industrial-architecture_and_city-buildings-landscape-128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="471" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/city-elements-18/64/factory-pollution-industry-contamination-industrial-architecture_and_city-buildings-landscape-128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="367" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/city-elements-18/64/factory-pollution-industry-contamination-industrial-architecture_and_city-buildings-landscape-128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="261" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;width=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="399" as="targetPoint" />
+            <mxPoint x="374" y="399" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-16" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="580" y="399" as="sourcePoint" />
+            <mxPoint x="530" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxtwxUlN5PKy3tY3AME2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;width=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="400" as="targetPoint" />
+            <mxPoint x="230" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
