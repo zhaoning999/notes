@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T11:39:18.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="e790RDidUaO2VS8dZ3CM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T12:12:49.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="SiJpDw8DadU7Iv069FFr" type="github">
   <diagram id="JBfed8t8mr9uQ-Ko72bg" name="第 1 页">
     <mxGraphModel dx="1114" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,61 @@
         </mxCell>
         <mxCell id="qKfkswXfenv51tpZstg_-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;总目标函数&lt;br&gt;Reward&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="260" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="qKfkswXfenv51tpZstg_-9" target="qKfkswXfenv51tpZstg_-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="743" />
+              <mxPoint x="210" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKfkswXfenv51tpZstg_-9" target="qKfkswXfenv51tpZstg_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="743" />
+              <mxPoint x="210" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316" y="720" as="sourcePoint" />
+            <mxPoint x="317" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;环境&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="720" width="112" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;值函数&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="620" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="qKfkswXfenv51tpZstg_-12" target="qKfkswXfenv51tpZstg_-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="540" />
+              <mxPoint x="460" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;策略&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="520" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-16" value="&lt;b&gt;动作&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-17" value="&lt;b&gt;状态&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="158" y="625" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-18" value="&lt;b&gt;Critic&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="215" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-19" value="&lt;b&gt;Actor&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKfkswXfenv51tpZstg_-20" value="&lt;b&gt;奖励&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="316" y="680" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
