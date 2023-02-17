@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T10:54:26.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xGa5TgKg-SAIMqnTa2sc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T10:55:06.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KSMaUL81SiGzG2Y0rsE5" version="20.8.20" type="github">
   <diagram name="第 1 页" id="PBgzjmfkAkx4iYyYDSNW">
     <mxGraphModel dx="1411" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-5" value="数据采集" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="390" y="320" width="140" height="70" as="geometry" />
+          <mxGeometry x="360" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="dhl2bMeNFtHO_AHOjOpA-5" target="dhl2bMeNFtHO_AHOjOpA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-7" value="数据上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="140" height="70" as="geometry" />
+          <mxGeometry x="370" y="540" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="dhl2bMeNFtHO_AHOjOpA-7" target="dhl2bMeNFtHO_AHOjOpA-7">
           <mxGeometry relative="1" as="geometry" />
@@ -32,42 +32,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-14" value="发送功能码" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="260" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-15" value="接收状态数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-16" value="处理原始数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="470" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="470" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-17" value="发送数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="600" y="610" width="140" height="70" as="geometry" />
+          <mxGeometry x="560" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhl2bMeNFtHO_AHOjOpA-5" target="dhl2bMeNFtHO_AHOjOpA-14">
           <mxGeometry x="-0.1803" y="1" width="160" relative="1" as="geometry">
-            <mxPoint x="370" y="170" as="sourcePoint" />
-            <mxPoint x="451" y="140" as="targetPoint" />
+            <mxPoint x="340" y="160" as="sourcePoint" />
+            <mxPoint x="421" y="130" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhl2bMeNFtHO_AHOjOpA-5" target="dhl2bMeNFtHO_AHOjOpA-15">
           <mxGeometry x="0.25" y="-11" width="160" relative="1" as="geometry">
-            <mxPoint x="430" y="220" as="sourcePoint" />
-            <mxPoint x="511" y="190" as="targetPoint" />
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="481" y="180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=0.996;exitY=0.413;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="dhl2bMeNFtHO_AHOjOpA-7" target="dhl2bMeNFtHO_AHOjOpA-16">
           <mxGeometry x="-0.2828" y="10" width="160" relative="1" as="geometry">
-            <mxPoint x="360" y="200" as="sourcePoint" />
-            <mxPoint x="441" y="170" as="targetPoint" />
+            <mxPoint x="330" y="200" as="sourcePoint" />
+            <mxPoint x="411" y="170" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dhl2bMeNFtHO_AHOjOpA-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhl2bMeNFtHO_AHOjOpA-7" target="dhl2bMeNFtHO_AHOjOpA-17">
           <mxGeometry x="0.1803" y="1" width="160" relative="1" as="geometry">
-            <mxPoint x="390" y="700" as="sourcePoint" />
-            <mxPoint x="471" y="670" as="targetPoint" />
+            <mxPoint x="360" y="700" as="sourcePoint" />
+            <mxPoint x="441" y="670" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
