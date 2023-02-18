@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T07:15:33.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="k5lXKpctpe8g9zie-uPg" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T07:51:03.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_kekUa2CR3AgxDETE2nR" version="20.8.20" type="github">
   <diagram name="第 1 页" id="Q3uEfQBrKH9XvUKb54Zt">
     <mxGraphModel dx="1411" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,18 +6,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="FMy_UzAWd3OADEmYsodV-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="265" as="sourcePoint" />
-            <mxPoint x="210" y="265" as="targetPoint" />
+            <mxPoint x="170" y="265" as="sourcePoint" />
+            <mxPoint x="170" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FMy_UzAWd3OADEmYsodV-4" value="消息发布" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="358.5" width="140" height="70" as="geometry" />
+        <mxCell id="FMy_UzAWd3OADEmYsodV-4" value="报警发布" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FMy_UzAWd3OADEmYsodV-5" value="数据持久化" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="100" width="140" height="70" as="geometry" />
+          <mxGeometry x="190" y="90" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FMy_UzAWd3OADEmYsodV-6" value="数据聚合" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="240" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FMy_UzAWd3OADEmYsodV-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;服务器&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="250" width="30" height="60" as="geometry" />
@@ -38,6 +38,46 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="290" y="380" as="sourcePoint" />
             <mxPoint x="620" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-15" value="预处理" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="40" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMy_UzAWd3OADEmYsodV-5" target="FMy_UzAWd3OADEmYsodV-15">
+          <mxGeometry x="-0.197" y="11" width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="410" as="sourcePoint" />
+            <mxPoint x="579" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-17" value="插入数据库" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMy_UzAWd3OADEmYsodV-5" target="FMy_UzAWd3OADEmYsodV-17">
+          <mxGeometry x="0.1086" y="-20" width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="135" as="sourcePoint" />
+            <mxPoint x="424" y="75" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-19" value="读取规则" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-20" value="筛选异常数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-22" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMy_UzAWd3OADEmYsodV-6" target="FMy_UzAWd3OADEmYsodV-19">
+          <mxGeometry x="-0.197" y="11" width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="270" as="sourcePoint" />
+            <mxPoint x="834" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMy_UzAWd3OADEmYsodV-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FMy_UzAWd3OADEmYsodV-6" target="FMy_UzAWd3OADEmYsodV-20">
+          <mxGeometry x="0.1086" y="-20" width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="270" as="sourcePoint" />
+            <mxPoint x="744" y="310" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
