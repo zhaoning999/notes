@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T13:35:53.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_CycZ_KAQ1cf78IHN4QT" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T13:43:22.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="seOFF5bofD5MGTM-fseC" version="20.8.20" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="712" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,6 +98,14 @@
         </mxCell>
         <mxCell id="fbtyHZ18fIC1GveXKu8b-287" value="未建立会话" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="fbtyHZ18fIC1GveXKu8b-233">
           <mxGeometry x="203.94000000000005" y="499.47" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbtyHZ18fIC1GveXKu8b-442" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=open;endFill=0;endSize=8;" edge="1" parent="fbtyHZ18fIC1GveXKu8b-233" source="fbtyHZ18fIC1GveXKu8b-288" target="fbtyHZ18fIC1GveXKu8b-441">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="610" />
+              <mxPoint x="465" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fbtyHZ18fIC1GveXKu8b-288" value="发送CONNECT&#xa;数据包" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="fbtyHZ18fIC1GveXKu8b-233">
           <mxGeometry x="304.94000000000005" y="364.47" width="120" height="40" as="geometry" />
@@ -224,6 +232,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fbtyHZ18fIC1GveXKu8b-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;endArrow=open;endFill=0;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="fbtyHZ18fIC1GveXKu8b-233" source="fbtyHZ18fIC1GveXKu8b-371" target="fbtyHZ18fIC1GveXKu8b-441">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.5010615711253" y="723" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fbtyHZ18fIC1GveXKu8b-371" value="" style="whiteSpace=wrap;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="fbtyHZ18fIC1GveXKu8b-233">
           <mxGeometry x="159.94000000000005" y="754" width="5" height="45" as="geometry" />
         </mxCell>
@@ -244,6 +257,9 @@
         </mxCell>
         <mxCell id="fbtyHZ18fIC1GveXKu8b-437" value="重试次数&lt;br&gt;大于5次" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="fbtyHZ18fIC1GveXKu8b-233">
           <mxGeometry x="539.94" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fbtyHZ18fIC1GveXKu8b-441" value="移动通信模组" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="fbtyHZ18fIC1GveXKu8b-233">
+          <mxGeometry x="409.94" y="705" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbtyHZ18fIC1GveXKu8b-317" value="响应数据包接收" style="swimlane;whiteSpace=wrap;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1900" y="220" width="360" height="810" as="geometry" />
