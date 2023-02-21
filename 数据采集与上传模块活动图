@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T06:25:10.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IUX7D52v244oRpXNIH9U" version="20.8.20" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">3VtNk5s4EP01Ps4UQuCPY+Yre9mqVE2qsjkyIBtqMGKFPLbz61cyEga1PJFtDKmdS0xLCPT01P1aTSb4cb37yqIy/ZsmJJ/4XrKb4KeJ76PAm4t/pGVfW2aBMqxYlqhOR8Nr9osoo6esmywhVacjpzTnWdk1xrQoSMw7togxuu12W9K8+9QyWhFgeI2jHFp/ZAlPlRVNF8eGv0i2StWj5/60bniL4vcVo5tCPa+gBalb1pEeRs2xSqOEblsm/DzBj4xSXv9a7x5JLmHViNX3vZxobV6ZkYK73ODXN3xE+UbN+nvKSJQImxqr4nsNSLXN1nkk5oIftmnGyWsZxbJpK9YfPljd/0EYJ7uWSb3IV0LXhLO96KJbp8F9WN+kGIN8xZjtEX9/rqBLW9CHM2WM1JqvmtGPkxc/1PztWIQAC4CAuEGwTwIgFq6UxopHjL/yiEvjMsvzR5pTduiNvcOf7MwZfSetluVStUDY/LNh87wOaIEHMMMWyHAPiE0dEEvEnlKXJH+j2+ej4eFgEA0pZdkvWvBIPOhBzjwTu/BLnq0K0fhGOadr2btIvshtLWy0JEVtUW5jbkP55UWhLPq9ZHIWT0hcHXYmkVPwTsJf0Q2LSYcXYqFXRPWa1SY5uWuWyIa9GuQbzcQrHUdAxs5AxhD126m7jBVsXshpUWdgUbMkJ2Bhe2Du1LPPadv2trbd3gN152CWm4owOWjMM1oMMN0mBgwx3YXDTgXb61YbagY31NxxQzGSRzz76Eboa4DRgLeQKWnFD7JivY5ECL89E7B2MUMwASEw4RGpMIdU0BMfgQtQDfUQzz6FDga0K8DUyF0SqdrU8yzUa4zOqJ8IZKYXXBicricEAhkYCEQPc6ATEVEgHu1b3UrZoTr9wth437AjqMWPesBLoy0GlGsEOCTfjQV4EIwrwBEEA+6/2ytwfC5uU7u6G0CAo+AWHmtcBY4tjg1bwkTo6Nl23VXR+/hsCR52t4aju7nAJSCYiDoq8LOZ6xs+dEgFjmD2GKckfp/IoxqpxCcyv8RI0qcg26MiqwZAYlBxjmDKBXfxbSSZbbNZ8l29ViNoMpioNcLc+3dDNkPsi2EF+ni5mo0NUwsbRsvWfJi8KA54ZF3yPQCKpXT9tqmgMliKv/jmygCFpluBRLLJqc8OiJyxgtnMnkDfeb48iJQsyMmS30gt7DL+j6SokKP11c8DYT8js2wTCNW3zUJ9/fM4jLz8RlgmkCTMeQM0pYfWBvDP1B53aoyecydkupueUp4mldLPmfeb81iSnoLenpicliNqWBuPdAowNI+M9cVe6MSjS5baJUEZNZhp+EYIZg4FJ53k5tkh66+B0dXI6afhi1GRE8ujbPy0OA3PGbHMOAlB/uweRrPQEs1Q2ANY/8Nak81L2MT3mdHGXCgzU/29gzAPvZCpR/pzEPpJrXVNsqqMeJy28r9G8jeWLWXvh3oNV8dl/ScBKBgxC8BQ6cYsO5C1hUJF7NUq7TYKyu2HheLWmsw697wOKa97NhIsLNmz7VS5F6Sgzv0sxBw+xnDbwB6QmElUpYcLy4cWtnhjKW/g0eINdojFVqachMrIqZT9ej75QZdPeGEJNJBNQQ9xJnApj50dZ46pCcxLblQfstBR+9oOHQNHOg5VIDIP0+eGi3CtD5nJEjYH6i1ZMnyf12+yBDdtUyDSSzxYgWjmj1sgwjBxLBmNSVXZtMJvFUFw7vyNvCnwhhQELp+njVSc7py9+BeevQTQOTmfswzlnO4MYRyYn2G5eqc7ZJZezIJUT+7pDhnPUTzqrX7tUrto0dJFfl0e9Cwc0j7jz+WQv7g3hIsri0x/BEfqMVGDhRi40KA4L7PmC0vz17trMxEO9agDVObxeFUchVNH+VkK6Hi8Kg7M+YfCBkFsbF9NDVbhEpfHj/3rXXn8zxT4+T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-21T06:51:57.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dc4JdFSszuiTITjPYt4Z" version="20.8.20" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1400" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="电源设备" style="swimlane;whiteSpace=wrap;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="164.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="2" vertex="1">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0" parent="2" source="5" target="7" edge="1">
+          <mxGeometry x="100" y="40" as="geometry">
+            <mxPoint x="115" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="检查是否有功能码" style="strokeColor=#000000;" parent="2" vertex="1">
+          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="有功能码" style="rhombus;strokeColor=#000000;" parent="2" vertex="1">
+          <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#000000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="发送对应的数据" style="strokeColor=#000000;" parent="2" vertex="1">
+          <mxGeometry x="60" y="325" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I63yf29QWtxOl43D6aUC-45" value="是" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="8" target="10">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-64.5" y="342" as="targetPoint" />
+            <mxPoint x="-64.5" y="282" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I63yf29QWtxOl43D6aUC-46" value="否" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" source="8" target="7">
+          <mxGeometry x="-0.4051" y="-9" relative="1" as="geometry">
+            <mxPoint x="-44.5" y="132" as="targetPoint" />
+            <mxPoint x="-104.5" y="242" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="36" y="245" />
+              <mxPoint x="36" y="135" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="STM32系统板" style="swimlane;whiteSpace=wrap;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="3" vertex="1">
+          <mxGeometry x="60" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0" parent="3" source="13" target="15" edge="1">
+          <mxGeometry x="40" y="20" as="geometry">
+            <mxPoint x="55" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I63yf29QWtxOl43D6aUC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="3" source="15" target="21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="检查串口数据" style="strokeColor=#000000;" parent="3" vertex="1">
+          <mxGeometry x="20" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="串口有数据" style="rhombus;fillColor=none;strokeColor=#000000;" parent="3" vertex="1">
+          <mxGeometry x="35" y="202" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="否" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;exitX=1;exitY=0.5;endFill=1;rounded=0;entryX=0.75;entryY=0.5;entryPerimeter=0;exitDx=0;exitDy=0;" parent="3" source="21" target="25" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="160" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="" style="shape=line;strokeWidth=6;strokeColor=#000000;rotation=90" parent="3" vertex="1">
+          <mxGeometry x="130" y="127.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0" parent="3" source="25" target="15" edge="1">
+          <mxGeometry x="130" y="90" as="geometry">
+            <mxPoint x="230" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="" style="whiteSpace=wrap;strokeColor=#000000;fillColor=none;" parent="3" vertex="1">
+          <mxGeometry x="245" y="379" width="5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="I63yf29QWtxOl43D6aUC-48" value="校验CRC" style="strokeColor=#000000;" vertex="1" parent="3">
+          <mxGeometry x="20" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I63yf29QWtxOl43D6aUC-49" value="是" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="21" target="I63yf29QWtxOl43D6aUC-48">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="435.5" y="177" as="targetPoint" />
+            <mxPoint x="435.5" y="122" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="移动通信模组" style="swimlane;whiteSpace=wrap;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="process&#xa;command" style="strokeColor=#000000;" parent="4" vertex="1">
+          <mxGeometry x="90" y="389" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#000000;endArrow=open;endFill=1;rounded=0;entryX=0.25;entryY=0.5;entryPerimeter=0" parent="4" target="25" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-30" y="410" as="sourcePoint" />
+            <mxPoint x="-120" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="" style="edgeStyle=none;strokeColor=#000000;endArrow=open;endFill=1;rounded=0" parent="4" target="33" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-30" y="413.5" as="sourcePoint" />
+            <mxPoint x="90" y="413.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="4" vertex="1">
+          <mxGeometry x="130" y="484" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="" style="endArrow=open;strokeColor=#000000;endFill=1;rounded=0" parent="4" source="33" target="38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="dispatch&#xa;command&#xa;worker thread" style="strokeColor=#000000;" parent="4" vertex="1">
+          <mxGeometry x="55.5" y="252" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I63yf29QWtxOl43D6aUC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="10" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="464.5" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
