@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T08:45:31.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AWAJdjqHd_Wvm4UVBIHn" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:46:40.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xmnIejMqv0ZyFhZsAKgb" version="20.8.20" type="github">
   <diagram name="第 1 页" id="05BnAp9VxRAp9A0ihI4q">
     <mxGraphModel dx="1254" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="83" y="36" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-52" value="发送采集节点&#xa;状态信息请求" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="43" y="357" width="110" height="40" as="geometry" />
+          <mxGeometry x="43" y="354" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-53" value="" style="endArrow=open;strokeColor=#000000;endFill=1;rounded=0;fontSize=16;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WYnP4Aaxw4HWhbCPhOr4-49" source="WYnP4Aaxw4HWhbCPhOr4-52" target="WYnP4Aaxw4HWhbCPhOr4-60">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
             <Array as="points">
               <mxPoint x="87" y="592" />
               <mxPoint x="20" y="592" />
-              <mxPoint x="20" y="377" />
+              <mxPoint x="20" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -47,8 +47,8 @@
             <mxPoint x="183" y="324.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="446" />
-              <mxPoint x="180" y="420" />
-              <mxPoint x="246" y="420" />
+              <mxPoint x="180" y="410" />
+              <mxPoint x="246" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -56,7 +56,7 @@
           <mxGeometry x="78" y="427" width="40" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-61" value="收到回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="25.5" y="452" width="80" height="30" as="geometry" />
+          <mxGeometry x="25" y="464" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-144" value="未收到&lt;br&gt;回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
           <mxGeometry x="110" y="402" width="70" height="50" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="536" />
-              <mxPoint x="320" y="377" />
+              <mxPoint x="320" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,31 +95,33 @@
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-300" value="负载均衡&#xa;策略类型" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
           <mxGeometry x="43" y="184" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WYnP4Aaxw4HWhbCPhOr4-305" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;" edge="1" parent="WYnP4Aaxw4HWhbCPhOr4-49" source="WYnP4Aaxw4HWhbCPhOr4-303" target="WYnP4Aaxw4HWhbCPhOr4-310">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WYnP4Aaxw4HWhbCPhOr4-305" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;" edge="1" parent="WYnP4Aaxw4HWhbCPhOr4-49" target="WYnP4Aaxw4HWhbCPhOr4-310">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="287.0000000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;" edge="1" parent="WYnP4Aaxw4HWhbCPhOr4-49" source="WYnP4Aaxw4HWhbCPhOr4-303" target="WYnP4Aaxw4HWhbCPhOr4-317">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206.70000000000027" y="276.9699999999999" as="targetPoint" />
+            <mxPoint x="206.70000000000027" y="271.9699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-303" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=14;fillColor=none;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="78" y="258" width="40" height="37" as="geometry" />
+          <mxGeometry x="78" y="253" width="40" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-306" value="动态权重算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="95.5" y="291.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="95.5" y="288.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;" edge="1" parent="WYnP4Aaxw4HWhbCPhOr4-49" source="WYnP4Aaxw4HWhbCPhOr4-310" target="WYnP4Aaxw4HWhbCPhOr4-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-310" value="" style="whiteSpace=wrap;strokeColor=#000000;fillColor=#000000;rotation=90;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="95.5" y="300" width="5" height="45" as="geometry" />
+          <mxGeometry x="95.5" y="297" width="5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-316" value="经典算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="110" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="245" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-317" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=14;" vertex="1" parent="WYnP4Aaxw4HWhbCPhOr4-49">
-          <mxGeometry x="190" y="261.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="190" y="256.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYnP4Aaxw4HWhbCPhOr4-63" value="权值计算与更新" style="swimlane;whiteSpace=wrap;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="950" y="50" width="240" height="610" as="geometry" />
@@ -342,7 +344,8 @@
             <mxPoint x="1080" y="636" as="sourcePoint" />
             <mxPoint x="1341" y="430.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1015" y="636" />
+              <mxPoint x="1020" y="595" />
+              <mxPoint x="1020" y="636" />
               <mxPoint x="1170" y="636" />
               <mxPoint x="1170" y="428" />
             </Array>
