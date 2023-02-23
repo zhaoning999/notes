@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T13:24:28.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q2ZWuRjxXrWsxyofIjCN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:37:36.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gqTG0gilnFvBz3h7pUNo" version="20.8.20" type="github">
   <diagram name="第 1 页" id="u4HGHAHaRQ3az1ddJt9K">
     <mxGraphModel dx="1938" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23DuI4QIYEbioL7hd8h3-6" value="设备监测与预警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="23DuI4QIYEbioL7hd8h3-6" value="设备监测与报警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="426" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="23DuI4QIYEbioL7hd8h3-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
         <mxCell id="23DuI4QIYEbioL7hd8h3-9" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="535" y="-12" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="23DuI4QIYEbioL7hd8h3-11" value="监测设备在线" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="23DuI4QIYEbioL7hd8h3-11" value="设备状态监测" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="542" y="348" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="23DuI4QIYEbioL7hd8h3-13" value="设备异常报警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
         <mxCell id="23DuI4QIYEbioL7hd8h3-30" value="历史数据查询" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="540" y="177" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="23DuI4QIYEbioL7hd8h3-33" value="服务器监测&lt;br&gt;与预警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="23DuI4QIYEbioL7hd8h3-33" value="服务器监测&lt;br&gt;与报警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="644" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="23DuI4QIYEbioL7hd8h3-36" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="23DuI4QIYEbioL7hd8h3-7" target="23DuI4QIYEbioL7hd8h3-33">
