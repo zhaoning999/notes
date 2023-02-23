@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T12:19:39.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="k8pzYnWwkl5rDz9wOgwq" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:10:16.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SPt47K3b67Db5gsYfhnA" version="20.8.20" type="github">
   <diagram name="第 1 页" id="3UR8tHWIDq0CQ_PGAZJa">
     <mxGraphModel dx="1066" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="412" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GcuesSzKcE3rabl-9OqK-65" value="等待IO多路&#xa;复用返回" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GcuesSzKcE3rabl-9OqK-65" value="等待事件发生" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="365" y="161" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GcuesSzKcE3rabl-9OqK-66" value="" style="endArrow=open;strokeColor=#000000;endFill=1;rounded=0;fontSize=16;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GcuesSzKcE3rabl-9OqK-65" target="GcuesSzKcE3rabl-9OqK-71">
@@ -47,11 +47,11 @@
         <mxCell id="GcuesSzKcE3rabl-9OqK-71" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="40" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="GcuesSzKcE3rabl-9OqK-72" value="有新的连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="267" width="90" height="30" as="geometry" />
+        <mxCell id="GcuesSzKcE3rabl-9OqK-72" value="建立有新的连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="267" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GcuesSzKcE3rabl-9OqK-73" value="没有新的连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="110" height="30" as="geometry" />
+        <mxCell id="GcuesSzKcE3rabl-9OqK-73" value="没有新的连接建立" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GcuesSzKcE3rabl-9OqK-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="GcuesSzKcE3rabl-9OqK-77" target="GcuesSzKcE3rabl-9OqK-81">
           <mxGeometry relative="1" as="geometry">
