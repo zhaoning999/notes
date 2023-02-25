@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T13:47:49.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MjIJnIhVdhsykMbxOvSh" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T13:55:56.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6xsj_yZVhHcEq64ETrdn" version="20.8.20" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2390" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value="RS485" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="225" y="80" width="100" height="360" as="geometry" />
+          <mxGeometry x="225" y="80" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="129" width="10" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="Z8sb3Mf6Ev30acmt4PgA-26" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=1;" parent="7baba1c4bc27f4b0-2" vertex="1">
+          <mxGeometry x="-170" y="101" width="390" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="IoTCollectData" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="100" y="80" width="100" height="360" as="geometry" />
+          <mxGeometry x="100" y="80" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="78" width="10" height="268" as="geometry" />
@@ -22,8 +25,8 @@
             <mxPoint x="180" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z8sb3Mf6Ev30acmt4PgA-5" value="data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;fontColor=default;exitX=0.161;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.167;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z8sb3Mf6Ev30acmt4PgA-10" edge="1" target="7baba1c4bc27f4b0-9">
-          <mxGeometry x="0.4656" y="1" relative="1" as="geometry">
+        <mxCell id="Z8sb3Mf6Ev30acmt4PgA-5" value="data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;fontColor=default;exitX=0.161;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Z8sb3Mf6Ev30acmt4PgA-10" edge="1">
+          <mxGeometry x="0.4526" y="1" relative="1" as="geometry">
             <mxPoint x="155" y="278" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="429.5" y="277.57142857142856" as="sourcePoint" />
@@ -31,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8sb3Mf6Ev30acmt4PgA-9" value="EDevice" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="348" y="80" width="100" height="360" as="geometry" />
+          <mxGeometry x="348" y="80" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Z8sb3Mf6Ev30acmt4PgA-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="Z8sb3Mf6Ev30acmt4PgA-9" vertex="1">
           <mxGeometry x="45" y="146" width="10" height="55" as="geometry" />
