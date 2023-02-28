@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T03:04:25.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fHA74jQnjop6kcAyApRL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T03:08:40.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-nH77c4-vjZGZi-4X5mC" version="20.8.23" type="github">
   <diagram name="第 1 页" id="4VGFoM_0TgWvralKycdt">
-    <mxGraphModel dx="1058" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,16 @@
           <mxGeometry x="525" y="95" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="99VtZ-csaqp6xX7NsGU4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="148" y="365" width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="99VtZ-csaqp6xX7NsGU4-2" value="不间断电源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="197" y="405" width="80" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="99VtZ-csaqp6xX7NsGU4-3" value="应急电源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="379" y="405" width="80" height="17" as="geometry" />
+          <mxGeometry x="148" y="365" width="350" height="45" as="geometry" />
         </mxCell>
         <mxCell id="99VtZ-csaqp6xX7NsGU4-4" value="感知层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="63" y="385" width="70" height="30" as="geometry" />
+          <mxGeometry x="63" y="374" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="99VtZ-csaqp6xX7NsGU4-5" value="物联网设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="197" y="375" width="80" height="20" as="geometry" />
+        <mxCell id="99VtZ-csaqp6xX7NsGU4-5" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="277" y="375" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="99VtZ-csaqp6xX7NsGU4-6" value="物联网设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="379" y="375" width="80" height="20" as="geometry" />
+        <mxCell id="99VtZ-csaqp6xX7NsGU4-6" value="移动通信模组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="376" y="375" width="101" height="20" as="geometry" />
         </mxCell>
         <mxCell id="99VtZ-csaqp6xX7NsGU4-7" value="4G/5G" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="165" y="314" width="140" height="30" as="geometry" />
@@ -114,6 +108,9 @@
         </mxCell>
         <mxCell id="99VtZ-csaqp6xX7NsGU4-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=8.89;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="221" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="99VtZ-csaqp6xX7NsGU4-46" value="电源设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="165" y="375" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
