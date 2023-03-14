@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T08:10:47.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UMkVO-w-aC9NlHqQnaWR" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:11:53.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oOpKGQZjN3NBbDKTMKEy" version="21.0.6" type="github">
   <diagram id="JBfed8t8mr9uQ-Ko72bg" name="第 1 页">
     <mxGraphModel dx="1167" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,9 +188,6 @@
         </mxCell>
         <mxCell id="-yeXed_Qf2KWJOeGI9Do-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;负载&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="1160" width="112" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="-yeXed_Qf2KWJOeGI9Do-19" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="970" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
