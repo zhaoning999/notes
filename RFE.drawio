@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T08:10:22.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.2" etag="aHuqyek9uSNJqEScyS03" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T08:39:30.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LuYSsVd8dUFaoCDo3JEe" version="21.1.2" type="github">
   <diagram name="第 1 页" id="puBO4Hg1i1qRgB_f7C7Q">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="oyoLQJbx3th_UY2Rnbfm-1" target="oyoLQJbx3th_UY2Rnbfm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="98" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="oyoLQJbx3th_UY2Rnbfm-2" target="oyoLQJbx3th_UY2Rnbfm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-2" value="特征集合FS和&lt;br&gt;选择的特征&lt;br&gt;数量 R" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="166" width="92" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="oyoLQJbx3th_UY2Rnbfm-4" target="oyoLQJbx3th_UY2Rnbfm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-4" value="通过FS训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="239" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="oyoLQJbx3th_UY2Rnbfm-5" target="oyoLQJbx3th_UY2Rnbfm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-5" value="计算特征的&lt;br&gt;重要性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="300" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyoLQJbx3th_UY2Rnbfm-6" target="oyoLQJbx3th_UY2Rnbfm-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-6" value="删除FS中最不重要的特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="360" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="oyoLQJbx3th_UY2Rnbfm-23" target="oyoLQJbx3th_UY2Rnbfm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="451" />
+              <mxPoint x="260" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oyoLQJbx3th_UY2Rnbfm-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="477" as="sourcePoint" />
+            <mxPoint x="360" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-23" value="FS大小等于 R" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="315" y="421" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-27" value="FS为选择的特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="508" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-28" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="421" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oyoLQJbx3th_UY2Rnbfm-29" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="358" y="477" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
