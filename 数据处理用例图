@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T10:49:31.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_7WkiKrmc92VeI-QgIeG" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T10:50:22.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j6aN2rH2M_6rC-VfGL52" version="21.1.4" type="github">
   <diagram name="第 1 页" id="Q3uEfQBrKH9XvUKb54Zt">
     <mxGraphModel dx="1235" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,13 +71,13 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aqF6mvKQQW_UUuoBlaCj-3" value="筛选设备" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="aqF6mvKQQW_UUuoBlaCj-3" value="比较时间戳" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aqF6mvKQQW_UUuoBlaCj-4" value="更新在线状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aqF6mvKQQW_UUuoBlaCj-5" value="检测设备状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="aqF6mvKQQW_UUuoBlaCj-5" value="比较状态&lt;br&gt;数据值" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aqF6mvKQQW_UUuoBlaCj-6" value="更新异常设备&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
