@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T06:18:06.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BVwoHzBIMZ7gxpnQ1myn" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:18:32.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="C10Moh5X0GbS8ngy0ozj" version="21.1.4" type="github">
   <diagram name="第 1 页" id="6M1QNurlvRoClHHdfbC1">
     <mxGraphModel dx="1221" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,10 +47,10 @@
         <mxCell id="IZs6sTBdMKPeY1QNRvHm-22" value="建立连接" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="520" y="250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IZs6sTBdMKPeY1QNRvHm-25" value="读取缓冲区数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="IZs6sTBdMKPeY1QNRvHm-25" value="读取缓冲区&lt;br&gt;数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="530" y="360" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IZs6sTBdMKPeY1QNRvHm-26" value="判断数据包类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="IZs6sTBdMKPeY1QNRvHm-26" value="判断数据包&lt;br&gt;类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="530" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IZs6sTBdMKPeY1QNRvHm-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZs6sTBdMKPeY1QNRvHm-10" target="IZs6sTBdMKPeY1QNRvHm-25" edge="1">
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IZs6sTBdMKPeY1QNRvHm-29" value="解析数据包" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="540" y="550" width="140" height="70" as="geometry" />
+          <mxGeometry x="539" y="550" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IZs6sTBdMKPeY1QNRvHm-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZs6sTBdMKPeY1QNRvHm-12" target="IZs6sTBdMKPeY1QNRvHm-26" edge="1">
           <mxGeometry x="0.1038" y="-20" width="160" relative="1" as="geometry">
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IZs6sTBdMKPeY1QNRvHm-32" value="响应数据包" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="540" y="650" width="140" height="70" as="geometry" />
+          <mxGeometry x="540" y="648" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IZs6sTBdMKPeY1QNRvHm-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZs6sTBdMKPeY1QNRvHm-12" target="IZs6sTBdMKPeY1QNRvHm-32" edge="1">
           <mxGeometry x="0.1038" y="-20" width="160" relative="1" as="geometry">
