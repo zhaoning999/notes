@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T07:07:18.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WDPkL6NXsZtWaV-qoBaO" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T07:07:37.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="h-Qn7EkURUjcf7pzSvPM" version="21.1.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2048" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="Oke20cPxPuDY1NxmsL3l-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Oke20cPxPuDY1NxmsL3l-1" target="Oke20cPxPuDY1NxmsL3l-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oke20cPxPuDY1NxmsL3l-1" value="电源设备数据接入与处理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Oke20cPxPuDY1NxmsL3l-1" value="电源设备物联网数据接入与处理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="151.5" y="60" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Oke20cPxPuDY1NxmsL3l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="Oke20cPxPuDY1NxmsL3l-2" target="Oke20cPxPuDY1NxmsL3l-13" edge="1">
