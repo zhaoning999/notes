@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T06:28:36.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DsRFhDGPJ4rVsCc8PeEN" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:28:44.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="953ooUy4qQjTjofvt_QJ" version="21.1.4" type="github">
   <diagram name="第 1 页" id="u4HGHAHaRQ3az1ddJt9K">
     <mxGraphModel dx="1436" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23DuI4QIYEbioL7hd8h3-6" value="设备监测与报警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="23DuI4QIYEbioL7hd8h3-6" value="设备监测&lt;br&gt;与报警" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="310" y="382" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="23DuI4QIYEbioL7hd8h3-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
