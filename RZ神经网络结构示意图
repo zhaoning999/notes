@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:38:36.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WfTyu-_suYmfeQqqqjdX" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T12:39:07.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cefPsCce6ptef_OjG0V3" version="21.2.7" type="github">
   <diagram name="第 1 页" id="leXUEZl_7whxevvGHjOD">
     <mxGraphModel dx="1050" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Cb5WNIbcXYlEOIeFEjk-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="-Cb5WNIbcXYlEOIeFEjk-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="162" y="155" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-Cb5WNIbcXYlEOIeFEjk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;endArrow=open;endFill=0;labelBackgroundColor=none;" edge="1" parent="1" source="-Cb5WNIbcXYlEOIeFEjk-5" target="-Cb5WNIbcXYlEOIeFEjk-1">
@@ -32,10 +32,10 @@
         <mxCell id="-Cb5WNIbcXYlEOIeFEjk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;endArrow=none;endFill=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="-Cb5WNIbcXYlEOIeFEjk-14" target="-Cb5WNIbcXYlEOIeFEjk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Cb5WNIbcXYlEOIeFEjk-14" value="$$\alpha_i F\left(x_i\right)$$" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="-Cb5WNIbcXYlEOIeFEjk-14" value="$$\alpha_i F\left(x_i\right)$$" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="290" y="90" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-Cb5WNIbcXYlEOIeFEjk-16" value="$$x_i$$" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="-Cb5WNIbcXYlEOIeFEjk-16" value="$$x_i$$" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="289" y="220" width="61" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-Cb5WNIbcXYlEOIeFEjk-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;$$x_{i+1}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
