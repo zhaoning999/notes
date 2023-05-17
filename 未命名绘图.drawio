@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T11:06:07.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2yr9cSO22fGGPLNu6l2C" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T11:07:11.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4DXr16LUDA6sdl3h7FVS" version="21.3.0" type="github">
   <diagram id="3eUIYci0AJJtG6zLOFo5" name="第 1 页">
     <mxGraphModel dx="2658" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1457,7 +1457,7 @@
         <mxCell id="zWW2Fot4tg80tHBMDrcF-7" value="无锁队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-780" y="489" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="zWW2Fot4tg80tHBMDrcF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWW2Fot4tg80tHBMDrcF-8" target="zWW2Fot4tg80tHBMDrcF-14">
+        <mxCell id="zWW2Fot4tg80tHBMDrcF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWW2Fot4tg80tHBMDrcF-24" target="zWW2Fot4tg80tHBMDrcF-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-560" y="570" as="targetPoint" />
           </mxGeometry>
@@ -1472,10 +1472,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zWW2Fot4tg80tHBMDrcF-14" value="SendACKWorker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="585" width="100" height="41" as="geometry" />
+          <mxGeometry x="-919" y="585" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="zWW2Fot4tg80tHBMDrcF-16" value="SENDACK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-992" y="580" width="76" height="30" as="geometry" />
+          <mxGeometry x="-1026" y="580" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zWW2Fot4tg80tHBMDrcF-18" value="插入队列后&lt;br&gt;直接返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-856" y="471" width="76" height="30" as="geometry" />
@@ -1484,10 +1484,19 @@
           <mxGeometry x="-464" y="489" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="zWW2Fot4tg80tHBMDrcF-21" value="异步存入Kafka后的回调流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-666" y="570" width="96" height="30" as="geometry" />
+          <mxGeometry x="-655" y="555" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zWW2Fot4tg80tHBMDrcF-22" value="批量取出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-686" y="468.62" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWW2Fot4tg80tHBMDrcF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWW2Fot4tg80tHBMDrcF-8" target="zWW2Fot4tg80tHBMDrcF-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="530" as="sourcePoint" />
+            <mxPoint x="-819" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWW2Fot4tg80tHBMDrcF-24" value="无锁队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-761" y="585" width="100" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
