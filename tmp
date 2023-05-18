@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T15:40:23.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1mQ4Rg2cfhU5bo_JwANY" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T08:08:22.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oa1N2wp-zlqjVoh4f1Bi" version="21.3.0" type="github">
   <diagram name="第 1 页" id="LR-y-PxQswyBr_v-QUJu">
-    <mxGraphModel dx="2562" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2062" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,6 +492,42 @@
         </mxCell>
         <mxCell id="VifqNvyzWpOSPs7BunDF-169" value="$$Output \ x_L$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="2470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-170" value="请求响应时间预测模型" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2560" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VifqNvyzWpOSPs7BunDF-172" target="VifqNvyzWpOSPs7BunDF-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-172" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1410" width="96.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VifqNvyzWpOSPs7BunDF-174" target="VifqNvyzWpOSPs7BunDF-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-174" value="检查数据格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1476" width="96.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-175" value="TDengine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1603" width="96.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VifqNvyzWpOSPs7BunDF-177" target="VifqNvyzWpOSPs7BunDF-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-177" value="生成SQL语句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1541" width="96.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-178" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1490" width="60" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-179" value="无锁队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1490" width="60" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-180" value="批量取出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1490" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-181" value="返回响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-44.25" y="1490" width="70" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
