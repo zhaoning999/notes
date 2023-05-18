@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T08:08:22.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oa1N2wp-zlqjVoh4f1Bi" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T08:08:42.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="P1wGpRl2O_ZvUyo33Jt_" version="21.3.0" type="github">
   <diagram name="第 1 页" id="LR-y-PxQswyBr_v-QUJu">
     <mxGraphModel dx="2062" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -517,11 +517,20 @@
         <mxCell id="VifqNvyzWpOSPs7BunDF-177" value="生成SQL语句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="1541" width="96.5" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VifqNvyzWpOSPs7BunDF-178" target="VifqNvyzWpOSPs7BunDF-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VifqNvyzWpOSPs7BunDF-178" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1490" width="60" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VifqNvyzWpOSPs7BunDF-179" target="VifqNvyzWpOSPs7BunDF-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VifqNvyzWpOSPs7BunDF-179" value="无锁队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1490" width="60" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VifqNvyzWpOSPs7BunDF-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VifqNvyzWpOSPs7BunDF-180" target="VifqNvyzWpOSPs7BunDF-181">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VifqNvyzWpOSPs7BunDF-180" value="批量取出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="1490" width="70" height="32" as="geometry" />
