@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T13:26:57.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_RlX48HaIKHonsd2--ah" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T13:27:16.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Uv02RoKHck0EGcacy9fa" version="21.3.4" type="github">
   <diagram name="第 1 页" id="fQFln3PlajtUeJhJFLNP">
     <mxGraphModel dx="1363" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
           <mxGeometry x="760" y="500" width="97.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GY0fv9mr9MSFQ78bEGDR-32" value="接收状态&lt;br&gt;数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="680" y="771" width="103" height="50" as="geometry" />
+          <mxGeometry x="680" y="720" width="103" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GY0fv9mr9MSFQ78bEGDR-33" value="心跳检测" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;direction=west;" vertex="1" parent="1">
           <mxGeometry x="761.5" y="640" width="97" height="50" as="geometry" />
