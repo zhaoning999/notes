@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T13:54:01.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="52fm9V2blHf5c7Y2Kj3T" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T13:54:25.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="w0wHsxaW_wyScSI56Kuv" version="21.3.4" type="github">
   <diagram name="第 1 页" id="fp3lh7Pd_IDGw7GP5I2N">
     <mxGraphModel dx="1060" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,15 @@
         </mxCell>
         <mxCell id="WpSQJ_eikLcADn4C4lme-29" value="数据存入&#xa;待发送缓冲区" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="WpSQJ_eikLcADn4C4lme-17">
           <mxGeometry x="241.25" y="306.5" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WpSQJ_eikLcADn4C4lme-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=open;endFill=0;endSize=8;" edge="1" parent="WpSQJ_eikLcADn4C4lme-17" source="WpSQJ_eikLcADn4C4lme-30" target="WpSQJ_eikLcADn4C4lme-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="630" />
+              <mxPoint x="394" y="630" />
+              <mxPoint x="394" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WpSQJ_eikLcADn4C4lme-30" value="发送功能码" style="strokeColor=#000000;fontSize=16;" vertex="1" parent="WpSQJ_eikLcADn4C4lme-17">
           <mxGeometry x="44" y="546" width="110" height="38" as="geometry" />
