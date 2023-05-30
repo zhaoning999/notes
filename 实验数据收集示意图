@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T08:32:38.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KeBUkfo_2Av5UhZ1XOJh" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T08:34:34.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="os27tVWW5RK3d0ZM82aL" version="21.3.5" type="github">
   <diagram name="第 1 页" id="SGpS8j9XMwQQGzlDEnxX">
-    <mxGraphModel dx="1050" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxPoint x="290" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go_oiFGIyjlmNmi8--gi-3" value="测试服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="go_oiFGIyjlmNmi8--gi-3" value="模拟程序服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="145" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="go_oiFGIyjlmNmi8--gi-6" value="192.168.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
