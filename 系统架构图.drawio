@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T06:26:03.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1GriLdPdFDgy53ndyfIb" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T06:26:50.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H1FMr8SsGzA2DY0mUHph" version="24.2.0" type="github">
   <diagram name="Page-1" id="E0N0s1sdhWup7cQctQ9j">
-    <mxGraphModel dx="2867" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Wj7LmPUc-mzGW2ijRmCx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="1280" height="490" as="geometry" />
+          <mxGeometry x="400" y="310" width="1280" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Wj7LmPUc-mzGW2ijRmCx-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="350" width="190" height="380" as="geometry" />
+          <mxGeometry x="420" y="350" width="190" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Wj7LmPUc-mzGW2ijRmCx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wj7LmPUc-mzGW2ijRmCx-4" target="Wj7LmPUc-mzGW2ijRmCx-12">
           <mxGeometry relative="1" as="geometry">
@@ -122,8 +122,8 @@
         <mxCell id="Wj7LmPUc-mzGW2ijRmCx-37" value="报警推送模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570.5" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wj7LmPUc-mzGW2ijRmCx-38" value="视频拉取模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="478.75" y="740" width="90" height="40" as="geometry" />
+        <mxCell id="Wj7LmPUc-mzGW2ijRmCx-39" value="视频拉取模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="740" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
