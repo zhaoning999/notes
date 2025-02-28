@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="VRuCyA4N-kbl4hFswUVf">
-    <mxGraphModel dx="1150" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="duC76o4Ho9xTZaZ2-rZ5-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;累计&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;超过5帧&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="640" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="duC76o4Ho9xTZaZ2-rZ5-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="duC76o4Ho9xTZaZ2-rZ5-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发出报警信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="757" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
