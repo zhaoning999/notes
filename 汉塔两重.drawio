@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="新材料数据采集体系" id="q911G93XyY2vNnUd1ZnW">
-    <mxGraphModel dx="884" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
         <mxCell id="d2dfoDQRdKrLQLWMJYhY-97" value="频率: 5-20分钟/次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
           <mxGeometry x="37" y="165" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d2dfoDQRdKrLQLWMJYhY-98" value="格式: Excel/CSV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
+        <mxCell id="d2dfoDQRdKrLQLWMJYhY-98" value="格式: JSON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
           <mxGeometry x="137" y="165" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d2dfoDQRdKrLQLWMJYhY-99" value="存储: 时序数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
@@ -145,7 +145,7 @@
         <mxCell id="d2dfoDQRdKrLQLWMJYhY-101" value="更新: 每天" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
           <mxGeometry x="37" y="259" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d2dfoDQRdKrLQLWMJYhY-102" value="格式: XML" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
+        <mxCell id="d2dfoDQRdKrLQLWMJYhY-102" value="格式: 文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
           <mxGeometry x="137" y="259" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d2dfoDQRdKrLQLWMJYhY-103" value="存储: 静态数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBEE;" vertex="1" parent="d2dfoDQRdKrLQLWMJYhY-91">
